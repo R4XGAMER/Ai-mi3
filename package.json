@@ -1,0 +1,14 @@
+{
+  "name": "sonic-ai-server",
+  "version": "1.0.0",
+  "description": "SONIC AI Friend Server for Minecraft Bedrock",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
