@@ -6,7 +6,7 @@
 
 // ⚠️ Render Dashboard mein Environment Variable set karo:
 // Variable name: CLAUDE_API_KEY
-// Value: sk-ant-api03-...
+// Value: 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
 
 const http  = require("http");
 const https = require("https");
